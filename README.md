@@ -2,6 +2,8 @@
 ### Máster en ciencia de datos - UOC
 ### Alumno: José Antonio Peña Carrero
 
+Fecha publicación de los datos: 20-04-2024
+
 ## Visualización 1 - Cartograma
 
 En la primera de las tres visualizaciones se muestra un cartograma del PIB generado por las difernetes comunidades autónomas de España excepto Canarias.
