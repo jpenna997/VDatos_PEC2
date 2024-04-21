@@ -14,14 +14,14 @@ La visualización está disponible en el Notebook, realizada con la librería Pl
 
 Fuentes: [INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736167628&menu=resultados&idp=1254735576581), [Go-Cart](https://go-cart.io/cart/6vd6kp7psf5siatewp42meli3ehmcc2e)
 
-## Visualización 2 - Dendograma Lineal
+## Visualización 2 - Dendrograma Lineal
 
 En la segunda visualización se muestran las tasas de desempleo en los diferentes estados de la Unión Europea.
-El dendograma agrupa los estados con porcentajes similares de tasas de desempleo, pues los agrupa por la menor diferencia posible entre sus valores.
+El dendrograma agrupa los estados con porcentajes similares de tasas de desempleo, pues los agrupa por la menor diferencia posible entre sus valores.
 
 Al igual que la primera visualización, está disponible en el Notebook y se ha implementado usando la librería Plotly de Python.
 
-![Dendograma](img/vdatos_pec2_v2.png)
+![Dendrograma](img/vdatos_pec2_v2.png)
 
 Fuente: [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/UNE_RT_M__custom_10981417/default/table?lang=en)
 
