@@ -32,3 +32,8 @@ El contenido es accesible desde el siguiente enlace a [Tableau Public](https://p
 ![Beeswarm Chart](img/vdatos_pec2_v3.png)
 
 Fuente: [Ayuntamiento de Madrid](https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Estadistica/Areas-de-informacion-estadistica/Trafico-transportes-y-comunicaciones/Transportes/E-M-T-y-Metro-de-Madrid/?vgnextfmt=default&vgnextoid=0c9ef2cb6e5d9210VgnVCM1000000b205a0aRCRD&vgnextchannel=4b49f9b50632a210VgnVCM1000000b205a0aRCRD)
+
+
+### Licencia CC-BY 4.0
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
